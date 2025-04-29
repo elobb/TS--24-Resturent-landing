@@ -7,7 +7,9 @@ This is a feature-rich **Book-Store** built using modern technologies like **vit
 ## ✨ Sections
 
  - 🎨 **Tailwind Css**: A modern, clean design system for an aesthetic user interface.
- 
+ - 🎨 **Animation**: Smooth animation.
+
+
 ## 🚀 Technologies
 
 - **Vite.js** - .
